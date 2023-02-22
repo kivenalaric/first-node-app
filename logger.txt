@@ -1,0 +1,2 @@
+Succeeded to Load C:\Users\Alaric\Desktop\rebaseproj\first-app\static\home.html at 2023-02-22, 4:11:30 A.M. 
+Succeeded to Load C:\Users\Alaric\Desktop\rebaseproj\first-app\static\style.css at 2023-02-22, 4:11:30 A.M. 
